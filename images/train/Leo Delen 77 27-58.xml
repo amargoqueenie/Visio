@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Leo Delen</folder>
+	<filename>Leo Delen 77 27-58.jpg</filename>
+	<path>C:\Users\Queenie Rose Amargo\Visio_Automation-of-Labelling_V2\TRAINING NUMBER 2\Validation\Leo Delen\Leo Delen 77 27-58.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leo Delen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>77</ymin>
+			<xmax>120</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>
