@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Queenie Amargo</folder>
+	<filename>Queenie Amargo 283 19-35.jpg</filename>
+	<path>C:\Users\AI\Desktop\Dataset_Test_2\Validation\Queenie Amargo\Queenie Amargo 283 19-35.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Queenie Amargo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>124</ymin>
+			<xmax>196</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

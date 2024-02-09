@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Lord John Perucho</folder>
+	<filename>Lord John Perucho 81 53-01.jpg</filename>
+	<path>C:\Users\AI\Desktop\Dataset_Test_2\Validation\Lord John Perucho\Lord John Perucho 81 53-01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lord John Perucho</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>58</ymin>
+			<xmax>222</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Frank Lester Castillo</folder>
+	<filename>Frank Lester Castillo 318 06-07.jpg</filename>
+	<path>C:\Users\Queenie Rose Amargo\Visio_Automation-of-Labelling_V2\VALIDATION\Frank Lester Castillo\Frank Lester Castillo 318 06-07.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Frank Lester Castillo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>121</ymin>
+			<xmax>258</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>
